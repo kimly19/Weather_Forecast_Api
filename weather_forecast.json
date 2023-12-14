@@ -1,0 +1,132 @@
+[
+    {
+        "location": {
+            "name": "Phnom Penh",
+            "region": "Kingdom of Cambodia",
+            "country": "Cambodia",
+            "lat": 11.5621,
+            "long": 104.8885,
+            "tz_id": "Asia/Phnom_Penh",
+            "localtime": "2023-12-12 10:04:18"
+        },
+        "current": {
+            "last_updated": "2023-12-12 10:03:58",
+            "temp_c": 28,
+            "is_day": 0,
+            "high_temp": 32,
+            "low_temp": 26,
+            "condition": {
+                "description": "Mostly Cloudy",
+                "icon": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+                "code": 1005
+            },
+            "rain": 0,
+            "wind_speed": 3,
+            "humidity": 72
+        }
+    },
+    {
+        "location": {
+            "name": "Kampong Cham",
+            "region": "Kingdom of Cambodia",
+            "country": "Cambodia",
+            "lat": 12.0983,
+            "long": 105.3131,
+            "tz_id": "Asia/Phnom_Penh",
+            "localtime": "2023-12-14 10:04:18"
+        },
+        "current": {
+            "last_updated": "2023-12-14 10:03:58",
+            "temp_c": 31,
+            "is_day": 0,
+            "high_temp": 35,
+            "low_temp": 26,
+            "condition": {
+                "description": "Mostly Cloudy",
+                "icon": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+                "code": 1005
+            },
+            "rain": 0,
+            "wind_speed": 5,
+            "humidity": 60
+        }
+    },
+    {
+        "location": {
+            "name": "Kampot",
+            "region": "Kingdom of Cambodia",
+            "country": "Cambodia",
+            "lat": 10.7325,
+            "long": 104.3792,
+            "tz_id": "Asia/Phnom_Penh",
+            "localtime": "2023-12-15 10:04:18"
+        },
+        "current": {
+            "last_updated": "2023-12-15 10:03:58",
+            "temp_c": 27,
+            "is_day": 0,
+            "high_temp": 33,
+            "low_temp": 24,
+            "condition": {
+                "description": "Cloudy",
+                "icon": "https://ssl.gstatic.com/onebox/weather/64/cloudy.png",
+                "code": 1004
+            },
+            "rain": 0,
+            "wind_speed": 6,
+            "humidity": 74
+        }
+    },
+    {
+        "location": {
+            "name": "Taipei",
+            "region": "Capital of Taiwan",
+            "country": "The Republic of China",
+            "lat": 25.0330,
+            "long": 121.5654,
+            "tz_id": "Asia/Taipei",
+            "localtime": "2023-12-15 09:33:40"
+        },
+        "current": {
+            "last_updated": "2023-12-15 09:31:35",
+            "temp_c": 23,
+            "is_day": 1,
+            "high_temp": 30,
+            "low_temp": 19,
+            "condition": {
+                "description": "Sunny Cloudy",
+                "icon": "https://ssl.gstatic.com/onebox/weather/64/sunny_s_cloudy.png",
+                "code": 1003
+            },
+            "rain": 0,
+            "wind_speed": 3,
+            "humidity": 83
+        }
+    },
+    {
+        "location": {
+            "name": "Hong Kong",
+            "region": "Special administrative regions of China",
+            "country": "The Hong Kong Special Administrative Region of the People's Republic of China",
+            "lat": 22.3193,
+            "long": 114.1694,
+            "tz_id": "Asia/Hong_Kong",
+            "localtime": "2023-12-15 09:42:40"
+        },
+        "current": {
+            "last_updated": "2023-12-15 09:39:55",
+            "temp_c": 25,
+            "is_day": 1,
+            "high_temp": 26,
+            "low_temp": 24,
+            "condition": {
+                "description": "Mostly Cloudy",
+                "icon": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+                "code": 1005
+            },
+            "rain": 10,
+            "wind_speed": 16,
+            "humidity": 79
+        }
+    }
+]
