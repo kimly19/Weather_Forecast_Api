@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "location": {
             "name": "Phnom Penh",
             "region": "Kingdom of Cambodia",
@@ -26,6 +27,7 @@
         }
     },
     {
+        "id": 2,
         "location": {
             "name": "Kampong Cham",
             "region": "Kingdom of Cambodia",
@@ -52,6 +54,7 @@
         }
     },
     {
+        "id": 3,
         "location": {
             "name": "Kampot",
             "region": "Kingdom of Cambodia",
@@ -78,6 +81,7 @@
         }
     },
     {
+        "id": 4,
         "location": {
             "name": "Taipei",
             "region": "Capital of Taiwan",
@@ -104,6 +108,7 @@
         }
     },
     {
+        "id": 5,
         "location": {
             "name": "Hong Kong",
             "region": "Special administrative regions of China",
