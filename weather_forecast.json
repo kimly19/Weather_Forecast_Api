@@ -13,8 +13,8 @@
         "last_updated": "Thu, December 21 | 07:29 PM",
         "temp_c": "29°C",
         "is_day": 0,
-        "high_temp": "32°C",
-        "low_temp": "25°C",
+        "high_temp": "32",
+        "low_temp": "25",
         "condition": {
             "description": "Mostly Cloudy",
             "icon": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
