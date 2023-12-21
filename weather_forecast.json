@@ -19,7 +19,7 @@
             "icon": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
             "code": 1005
         },
-        "rain": "0",
+        "rain": "1%",
         "wind_speed": "3 km/h",
         "humidity": "72%" 
     }
